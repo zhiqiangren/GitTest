@@ -1,2 +1,1 @@
-# GitTest
-The first Git Demo.
+范宁宁，小志爱你！
